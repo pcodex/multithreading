@@ -1,0 +1,1 @@
+This program demonstrates the use of multiple condition variables using C++ 11's condition variables with predicates written using lambdas
