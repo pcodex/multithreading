@@ -1,0 +1,4 @@
+This program demonstrates multiple Producers and Consumers using a shared queue. A Shutter thread is also present which 
+can complete a shutdown of the whole process in whatever state the system may be in.
+The main program tests different scenarios to put the threads into a blocked state and then unblocks them by meeting required conditions.
+The program uses C++ 11's <thread> implementation
